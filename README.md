@@ -4,3 +4,4 @@
 
 Sample001 : テキスト  
 Sample002 : ボタン  
+Sample003 : トグル  
