@@ -7,3 +7,4 @@ Sample002 : ボタン
 Sample003 : トグル  
 Sample004 : イメージ  
 Sample005 : スライダー  
+Sample006 : テキスト入力 
