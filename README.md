@@ -10,3 +10,4 @@ Sample005 : スライダー
 Sample006 : テキスト入力  
 Sample007 : 選択肢のリスト表示  
 Sample008 : ListView / GridView  
+Sample009 : カメラ・アンカー設定  
