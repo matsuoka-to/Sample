@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cc2519c32d5243439b193eceab1d69e, type: 3}
+  m_Name: TestData
+  m_EditorClassIdentifier: 
+  hpMin: 800
+  hpMax: 800
+  mpMin: 60
+  mpMax: 60
+  expMin: 800
+  expMax: 1000
+  powerRate: 0.9
+  magicRate: 0.5
