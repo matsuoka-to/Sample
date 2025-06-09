@@ -5,6 +5,8 @@
 ●Asset  
 [SharpUI GUI](https://assetstore.unity.com/packages/2d/gui/sharpui-gui-195933)
 
+[DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676#releasesmonkey )
+
 Sample001 : テキスト  
 Sample002 : ボタン  
 Sample003 : トグル  
@@ -16,3 +18,4 @@ Sample008 : ListView / GridView
 Sample009 : カメラ・アンカー設定  
 Sample010 : UI・ダイアログ設定  
 Sample011 : Tween処理  
+Sample012 : シーン遷移処理  
