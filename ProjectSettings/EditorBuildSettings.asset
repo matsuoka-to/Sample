@@ -14,5 +14,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Sample012/Sample012_02.unity
     guid: a52d0f6ab1a61486aa456797977f3f0c
+  - enabled: 1
+    path: Assets/Sample013/Sample013_01.unity
+    guid: e5bb3b8bda4d146959cc5d7bb6a87db5
+  - enabled: 1
+    path: Assets/Sample013/Sample013_02.unity
+    guid: a9c74fd8849f44d71824d4ebf2de3ad9
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
