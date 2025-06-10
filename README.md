@@ -19,3 +19,4 @@ Sample009 : カメラ・アンカー設定
 Sample010 : UI・ダイアログ設定  
 Sample011 : Tween処理  
 Sample012 : シーン遷移処理  
+Sample013 : シーン遷移処理(フェード付き)  
