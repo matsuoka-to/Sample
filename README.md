@@ -2,10 +2,10 @@
 
 [Youtube](https://www.youtube.com/watch?v=Mb8C6p1sPp8&list=PL8KN9kpDAP9kggieG4bKuwTtc2flXygsv)
 
-●Asset  
-[SharpUI GUI](https://assetstore.unity.com/packages/2d/gui/sharpui-gui-195933)
-
-[DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676#releasesmonkey )
+●Asset Store  
+　[SharpUI GUI](https://assetstore.unity.com/packages/2d/gui/sharpui-gui-195933)  
+　[Page Slider](https://assetstore.unity.com/packages/tools/gui/page-slider-241341)  
+　[DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676#releasesmonkey )  
 
 Sample001 : テキスト  
 Sample002 : ボタン  
@@ -20,3 +20,4 @@ Sample010 : UI・ダイアログ設定
 Sample011 : Tween処理  
 Sample012 : シーン遷移処理  
 Sample013 : シーン遷移処理(フェード付き)  
+Sample014 : PageView処理  
