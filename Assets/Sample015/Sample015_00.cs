@@ -42,7 +42,7 @@ public class Sample015_00 : MonoBehaviour
 
             case 2:
             {
-                TestWaitAll().Forget();
+                TestWaitWhile().Forget();
             }
             break;
 
