@@ -7,6 +7,13 @@
 　[Page Slider](https://assetstore.unity.com/packages/tools/gui/page-slider-241341)  
 　[DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676#releasesmonkey )  
 
+●効果音ラボ  
+https://soundeffect-lab.info/  
+
+●魔王魂  
+https://maou.audio/  
+
+
 ●UPM  
 　[UniTask](https://github.com/Cysharp/UniTask)  
 　[UniRx](https://github.com/neuecc/UniRx)  
@@ -27,3 +34,4 @@ Sample013 : シーン遷移処理(フェード付き)
 Sample014 : PageView処理  
 Sample015 : UniTask処理  
 Sample016 : UniRx処理  
+Sample017 : BGM・SE再生  
